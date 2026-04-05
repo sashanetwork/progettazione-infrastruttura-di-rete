@@ -1,0 +1,2 @@
+# progettazione infrastruttura di rete
+il progetto contiene la configurazione su un file .pkt dell'infrastruttura di rete di una grande azienda IT, con i dovuti servizi necessari in base alla realta d'interesse, puntando alla massima qualità e sicurezza, costo di realizzazione elevato ma molto riducibile per esempiuo adottando switch L2 e un unico switch core L3 per il routing inter-VLAN risparmiando molto, oppure usare un unico firewall invece di 2 per la DMZ ma diminuendo la sicurezza di rete
